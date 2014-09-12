@@ -1,10 +1,10 @@
 {
-     "NAME":"USI Exploration Pack",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/GameData/UmbraSpaceIndustries/ExPack.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/ExplorationPack/releases"
+     "NAME":"Freight Transport Tech",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/FTT/master/GameData/UmbraSpaceIndustries/FTT.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/FTT/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"ExplorationPack",
+         "REPOSITORY":"FTT",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{

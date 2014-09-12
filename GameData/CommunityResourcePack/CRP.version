@@ -1,16 +1,16 @@
 {
-     "NAME":"USI Exploration Pack",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/GameData/UmbraSpaceIndustries/ExPack.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/ExplorationPack/releases"
+     "NAME":"Community Resource Pack",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/GameData/CommunityResourcePack/CRP.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/CommunityResourcePack/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"ExplorationPack",
+         "REPOSITORY":"CommunityResourcePack",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
          "MAJOR":0,
          "MINOR":1,
-         "PATCH":2,
+         "PATCH":3,
          "BUILD":0
      },
      "KSP_VERSION":{
