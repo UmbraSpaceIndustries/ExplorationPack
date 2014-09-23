@@ -1,15 +1,15 @@
 {
-     "NAME":"USI Exploration Pack",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/GameData/UmbraSpaceIndustries/ExPack.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/ExplorationPack/releases"
+     "NAME":"ORSX",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/ORSX/master/GameData/ORSX/ORSX.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/ORSX/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"ExplorationPack",
+         "REPOSITORY":"ORSX",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
          "MAJOR":0,
-         "MINOR":2,
+         "MINOR":1,
          "PATCH":0,
          "BUILD":0
      },
