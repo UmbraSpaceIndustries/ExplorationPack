@@ -1,0 +1,5 @@
+0.4.2 - 2015.10.16
+------------------
+Updated dependencies and KSP version
+CTT and node fixes
+Various tweaks for 1.0.4
