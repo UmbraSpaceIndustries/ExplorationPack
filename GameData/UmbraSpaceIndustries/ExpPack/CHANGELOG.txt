@@ -2,4 +2,6 @@
 ------------------
 Updated dependencies and KSP version
 CTT and node fixes
+Reduced heat generation of mini ducted fan engine
 Various tweaks for 1.0.4
+
