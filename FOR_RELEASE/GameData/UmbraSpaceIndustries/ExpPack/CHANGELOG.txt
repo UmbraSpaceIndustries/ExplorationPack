@@ -1,3 +1,15 @@
+0.4.4 - 2016.01.18
+------------------
+Adjusted PackRat KIS sizes to some manageable levels
+Fixed backwards AES node
+
+0.4.3 - 20125.11.09
+-------------------
+KSP 1.0.5 compatibility
+Fixed atmo curve issue with ducted fans
+Corrected node issue with micro ducted fan
+Removed ModuleRCSFX
+
 0.4.2 - 2015.10.16
 ------------------
 Updated dependencies and KSP version
