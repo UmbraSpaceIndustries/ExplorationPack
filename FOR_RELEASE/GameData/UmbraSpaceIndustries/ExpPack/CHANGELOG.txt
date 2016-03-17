@@ -1,3 +1,7 @@
+0.5.0 - TBD
+-----------
+Compatibility with KSP 1.1
+
 0.4.5 - 2016.03.02
 ------------------
 Dependency Updates
