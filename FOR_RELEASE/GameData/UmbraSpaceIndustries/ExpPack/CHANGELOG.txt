@@ -1,3 +1,9 @@
+0.5.1 - 2016.04.16
+------------------
+Made PackRat Miniwheel less explody
+Fixed typo in experiment results (thanks Zhetaan!)
+Reduced RCS tank dry mass (thanks LouisB3!)
+
 0.5.0 - 2016.03.29
 -----------
 Compatibility with KSP 1.1
