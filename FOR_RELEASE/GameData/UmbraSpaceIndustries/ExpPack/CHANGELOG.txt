@@ -1,3 +1,8 @@
+0.7.0 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+Sub Pack and Survivablilty Pack have been merged into the Exploration Pack.
+
 0.6.3 - (KSP 1.2.1)
 -------------------
 Updated AES decoupler category (Thanks Snacksquatch!)
