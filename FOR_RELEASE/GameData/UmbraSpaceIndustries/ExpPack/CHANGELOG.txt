@@ -1,3 +1,8 @@
+0.6.3 - (KSP 1.2.1)
+-------------------
+Updated AES decoupler category (Thanks Snacksquatch!)
+Added WheelSound support (Thanks Snacksquatch!)
+
 0.6.2 - 2016.10.16
 ------------------
 Dependency Updates
