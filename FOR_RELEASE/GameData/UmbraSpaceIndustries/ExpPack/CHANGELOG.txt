@@ -1,3 +1,7 @@
+0.7.2 - 2017.0.15
+-----------------
+Added CLS Configs (Thanks Kerbas-ad-astra!)
+
 0.7.1 - 2017.01.01
 -------------------
 Dependency Updates
