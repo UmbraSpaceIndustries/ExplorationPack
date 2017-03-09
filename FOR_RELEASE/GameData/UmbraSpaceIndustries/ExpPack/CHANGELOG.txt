@@ -1,3 +1,33 @@
+0.7.3 - 2017.02.04
+------------------
+Ducted fans are now significantly less EC efficient
+
+0.7.2 - 2017.0.15
+-----------------
+Added CLS Configs (Thanks Kerbas-ad-astra!)
+
+0.7.1 - 2017.01.01
+-------------------
+Dependency Updates
+
+0.7.0 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+Sub Pack and Survivablilty Pack have been merged into the Exploration Pack.
+
+0.6.3 - (KSP 1.2.1)
+-------------------
+Updated AES decoupler category (Thanks Snacksquatch!)
+Added WheelSound support (Thanks Snacksquatch!)
+
+0.6.2 - 2016.10.16
+------------------
+Dependency Updates
+
+0.6.1 - 2016.10.16
+------------------
+Dependency Updates
+
 0.6.0 - (KSP 1.2)
 ------------------
 Increased ducted fan EC usage, slightly decreased thrust
