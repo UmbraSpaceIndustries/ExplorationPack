@@ -1,3 +1,9 @@
+0.9.1 - 2017.03.06
+------------------
+Depencency Updates
+Added the safety light to the CCK 'Lights' category
+RPM Support (Thanks MrChumley!)
+
 0.9.0 - 2017.10.09
 ------------------
 KSP 1.3.1
