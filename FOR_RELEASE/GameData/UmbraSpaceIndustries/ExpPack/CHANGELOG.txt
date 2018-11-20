@@ -1,7 +1,8 @@
-1.0.0 - 2018.10.20
+1.0.0 - 2018.11.20
 ------------------
 KSP 1.5.0 Compatibility
 Updated wheel to use stock model
+Fix HERP pod IVA model path
 
 0.12.0 - 2018.06.22
 ------------------
