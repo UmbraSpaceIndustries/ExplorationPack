@@ -1,0 +1,15 @@
+// Used by AES_Beam and AES_Outrigger
+Squad/Parts/Structural/strutCubicOcto/model.mu
+Squad/Parts/Structural/strutCubicOcto/cubestrut.dds
+
+// Used by AES_Decoupler
+Squad/Parts/Utility/decouplerRadialHDM/model.mu
+Squad/Parts/Utility/decouplerRadialHDM/model000.dds
+
+// Used by AES_RCSTank
+Squad/Parts/FuelTank/RCStankRadialLong/model.mu
+Squad/Parts/FuelTank/RCStankRadialLong/ksp_r_rcsCylTank_diff.dds
+
+// Used by AES_Outrigger
+Squad/Parts/Structural/strutOcto/model.mu
+Squad/Parts/Structural/strutOcto/model000.dds
