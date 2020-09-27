@@ -1,3 +1,15 @@
+1.4.0 - 2020.09.26
+------------------
+KSP 1.10 Compatibility
+The Packrat seat now has a crew capacity so it can be loaded in the VAB.
+The Packrat FRONT Chassis has a new bottom attachment node that you can use to snap onto a KAS concrete block as a starting point for KIS/KAS assembly
+Added some additional nodes to the Packrat to ease assembly with KAS/KIS (no more having to rotate - just cycle through nodes!)
+Packrats got easier to... pack?  You can now squeeze the Packrat into a pair of KIS SC-62 Containers.
+Packrat part masses have been normalized to facilitate balanced KIS packing accross two radial containers.
+The Packrat has had it's stability dramatically increased.  Parts also have a higher mass.
+The Packrat built in RTG got a power boost to account for the mass increase and resource consumption.
+
+
 1.3.0 - 2019.10.28
 ------------------
 KSP 1.8.x Compatibility
