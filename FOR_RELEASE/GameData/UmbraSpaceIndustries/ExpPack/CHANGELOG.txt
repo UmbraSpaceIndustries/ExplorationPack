@@ -4,8 +4,9 @@ Deprecated KIS support
 Added the PackRat Mk2 - a complete refresh of the PackRat Rover!
 - Includes a few new parts, like two RTGs, and two generators (LF+Atm, Mono)
 - Includes options for a 'long wheelbase' version with extra battery storage
+- The mini wheel is now less responsive and slower than it's stock counterpart
 The old PackRat has been moved to a LegacyParts folder in the download.
-
+Added twelve new science parts!
 
 1.4.0 - 2020.12.20
 ------------------
