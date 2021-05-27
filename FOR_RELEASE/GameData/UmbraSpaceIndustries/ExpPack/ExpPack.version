@@ -1,9 +1,9 @@
 {
      "NAME":"USI Exploration Pack",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/ExpPack/ExpPack.version",
-	 "DOWNLOAD":"https://github.com/BobPalmer/ExplorationPack/releases",
+	 "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/ExplorationPack/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/ExpPack/ExpPack.version",
+	 "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/ExplorationPack/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"ExplorationPack",
          "ALLOW_PRE_RELEASE":false
      },
