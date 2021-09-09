@@ -1,4 +1,4 @@
-1.5.0 - TBD
+112.0 - 2021.09.19
 ------------------
 Deprecated KIS support
 Added the PackRat Mk2 - a complete refresh of the PackRat Rover!
