@@ -1,9 +1,9 @@
 {
      "NAME":"USI Exploration Pack",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/ExpPack/ExpPack.version",
-	 "DOWNLOAD":"https://github.com/BobPalmer/ExplorationPack/releases",
+	 "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/ExplorationPack/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/ExpPack/ExpPack.version",
+	 "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/ExplorationPack/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"ExplorationPack",
          "ALLOW_PRE_RELEASE":false
      },
@@ -15,7 +15,7 @@
      },
      "KSP_VERSION":{
          "MAJOR":1,
-         "MINOR":11,
+         "MINOR":12,
          "PATCH":0
      },
      "KSP_VERSION_MIN":{
@@ -25,7 +25,7 @@
      },
      "KSP_VERSION_MAX":{
          "MAJOR":1,
-         "MINOR":11,
+         "MINOR":12,
          "PATCH":99
      }
  } 
