@@ -134,7 +134,6 @@ pipeline {
           Copy-Item -Path (Join-Path -Path $CachePath -ChildPath "CommunityResourcePack") -Destination ./artifacts/GameData -Recurse
           Copy-Item -Path (Join-Path -Path $CachePath -ChildPath "Firespitter") -Destination ./artifacts/GameData -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "FX") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
-          Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "SrvPack") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
         '''
         script {
           env.ARCHIVE_FILENAME = "ExpPack_${env.GITVERSION_SEMVER}.zip"
