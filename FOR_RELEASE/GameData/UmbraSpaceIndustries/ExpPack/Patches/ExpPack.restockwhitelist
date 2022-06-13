@@ -1,9 +1,6 @@
 // Whitelist to enable Exploration Pack parts when ReStock is installed.
 // See: https://github.com/PorktoberRevolution/ReStocked/wiki/Asset-Blacklist-and-Whitelist
 
-// Used by Packrat Wheel
-Squad/Parts/Wheel/roverWheelM1/
-
 // Used by AES_Beam and AES_Outrigger
 Squad/Parts/Structural/strutCubicOcto/
 
